@@ -10,3 +10,7 @@
 4. 一個 Button ，表示估算的身高，以及是男性還是女性，初始值自訂。
 5. 一個 Button ，表示目前的 BMI 身高的輸入，是自行輸入還是使用估算值。初始值自訂。
 6. 一個 Button ，表示系統 Reset ，回到初始狀態。
+
+身高及 BMI 計算公式如下圖所示：
+
+![image](https://github.com/veryjimmy/android_lab2/blob/master/formula.png)
