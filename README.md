@@ -1,5 +1,5 @@
 設計一個身高估算與 BMI 的計算程式
-如圖下所示：
+如下圖所示：
 
 ![image](https://github.com/veryjimmy/android_lab2/blob/master/example.png)
 
